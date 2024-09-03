@@ -1,2 +1,2 @@
 # EmojiRecognizer
-A machine learning model trained to accurately identify emojis
+This repository presents a Python-based project for training a machine learning model to recognize custom-drawn emojis. The project leverages the emoji-drawings dataset by [FlafyDev](https://github.com/FlafyDev/emoji-drawings) as training data to create a classifier capable of accurately identifying various hand-drawn emoji categories.
